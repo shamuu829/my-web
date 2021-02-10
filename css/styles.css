@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+body {
+    background-color: blue;
+    font-style: oblique;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    font-size: large;
+    background-color: brown;
+    margin: auto;
+    
+}
+#circle {
+    color: darkred;
+    font-size: 40px;
+}
